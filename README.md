@@ -13,7 +13,7 @@ Features :
 
 Installation :
 
-    Clone this repository and install dependencies:
+   Clone this repository and install dependencies:
 
 git clone https://github.com/Hasini-Kotha/powergrid-delay-predictor.git
 cd powergrid-delay-predictor
