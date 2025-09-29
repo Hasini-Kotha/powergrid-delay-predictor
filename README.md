@@ -1,8 +1,8 @@
-⚡ Powergrid Delay Predictor
+ Powergrid Delay Predictor
 
 A Machine Learning project to predict cost and timeline overruns in powergrid projects and identify high-risk hotspots.
 
-🚀 Features
+ Features
 
 Predict Cost Overrun
 Predict Time Delays
@@ -11,7 +11,7 @@ Interactive Streamlit Dashboar
 SHAP Explainability for model insights
 
 
-⚙️ Installation
+ Installation :
 
 Clone this repository and install dependencies:
 
@@ -21,18 +21,17 @@ pip install -r requirements.txt
 
 ▶️ Usage
 
-Run the Streamlit app:
-streamlit run app.py
+Run the Streamlit app:  streamlit run app.py
 
-📊 Technologies Used
+Technologies Used
 
-Python 🐍
-Streamlit 🌐
-Pandas, NumPy 📑
-Scikit-learn 🤖
-SHAP (for explainability) 🔍
+Python 
+Streamlit 
+Pandas, NumPy 
+Scikit-learn 
+SHAP (for explainability) 
 
-📌 Future Work
+Future Work
 
 Improve accuracy with XGBoost/LightGBM
 Add visual risk maps for regions
